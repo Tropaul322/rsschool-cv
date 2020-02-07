@@ -1,2 +1,2 @@
 
-# https://github.com/tropaul322/rsschool-cv/cv.md
+#  https://tropaul322.github.io/rsschool-cv/cv
