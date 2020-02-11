@@ -1,0 +1,22 @@
+body{
+	background: linear-gradient(to right, #F6EFD2, #CEAD78);
+	font-family: BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+   
+}
+img{
+		    height: 300px;
+		    width: 250px;
+		    border-radius: 25%;
+			padding: 20px;
+			
+			
+	    }
+.bio{
+	display: flex;
+	
+	border: 4px double black;
+}
+.info{
+	padding-left: 25px;
+
+}
